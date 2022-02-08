@@ -1,0 +1,19 @@
+/* milkdown编辑器中的代码 */
+@import url(./style/code/prism-darcula.css);
+/* milkdown样式 */
+@import url(./style/nes.css);
+/* 字体 */
+@import url(./style/fonts.css);
+/* 去除全局边缘 */
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(https://cdn.jsdelivr.net/gh/Alndaly/imgsrc/img/202201241547889.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
